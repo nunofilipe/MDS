@@ -1,2 +1,5 @@
 Este exemplo de um ficheiro 1...
 FUI ALTERADO
+
+
+ALTERADO OUTRA VEZ
